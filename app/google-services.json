@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804042410034",
+    "project_id": "realtimekeyword",
+    "storage_bucket": "realtimekeyword.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804042410034:android:cb9862c4442aca32d5542b",
+        "android_client_info": {
+          "package_name": "com.kumoh.realtimekeyword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804042410034-i7knshlcbq8q0248b9ohk2hgb921f8ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBZgdx0HK94kWog5OC5eBef8ePJqmOVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804042410034-i7knshlcbq8q0248b9ohk2hgb921f8ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
